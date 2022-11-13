@@ -3,3 +3,42 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+  text-align: center;
+}
+img{
+  display: block;
+  margin: 0 auto;
+}
+nav a{
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgb(168, 168, 250);
+}
+figcaption{
+  text-align: center;
+  font-size: 12px;
+}
+#featured-property p{
+  max-width: 800px;
+  text-align: center;
+  padding-left: 420px;
+  line-height: 20px;
+}
+#details {
+  display: flex;
+  float: left;
+  text-align: center;
+  background-color: red;
+  width: 100%;
+}
+h3{
+  width: 25%;
+  padding-right: 190px;
+  padding-left: 150px;
+}
+
+
+
+
